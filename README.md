@@ -1,6 +1,6 @@
 # MultiLink
 
-Windows app that combines hostel Wi-Fi and phone USB tethering to speed up downloads.
+Windows app that combines Wi-Fi and phone USB tethering to speed up downloads.
 
 - Split downloads across every connected network (chunked HTTP Range requests, resume support)
 - Proxy mode: sends browser traffic through the fastest network
